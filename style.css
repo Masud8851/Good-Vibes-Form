@@ -23,13 +23,6 @@ p{
     border-radius: 10px;
     padding: 20px 10px 10px 10px;
 }
-  
-.fields {
-    display: inline-block;
-    text-align: left;
-    width: 48%;
-    vertical-align: middle;
-}
 
 .labels {
     display: inline-block;
@@ -40,6 +33,13 @@ p{
     margin-top: 10px;
 }
   
+.fields {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    vertical-align: middle;
+}
+ 
 .input-fields {
     height: 20px;
     width: 280px;
