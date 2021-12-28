@@ -3,11 +3,11 @@ body{
     background-color: #a9d7e9;
 }
   
-h1{
+#title{
     font-size: 48px;
 }
   
-p{
+#description{
     font-size: 22px;
 }
   
