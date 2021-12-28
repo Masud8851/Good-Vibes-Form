@@ -81,6 +81,11 @@ p{
     width: 80px;
     margin: 10px;
 }
+
+.button:hover{
+    background-color: chartreuse;
+    color: black;
+}
   
 @media (max-width: 833px) {
     .master-div-style {
